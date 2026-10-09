@@ -1,0 +1,14 @@
+{
+    "name": "Deepa Menon",
+    "jobTitle": "Project Manager (IT)",
+    "location": "Bengaluru, Karnataka",
+    "skills": "[\"Agile/Scrum\", \"Jira\", \"risk management\", \"stakeholder communication\", \"budgeting\", \"vendor management\", \"SDLC\", \"MS Project\"]",
+    "email": "deepa.menon@email.com",
+    "phone": "+91 98XXXXXX14",
+    "education": "B.E. Computer Science, VTU, 2015",
+    "experience": "[\"Project Manager, GlobalSoft India, Bengaluru (Mar 2020 \u2013 Present): Led 18-member team delivering a Rs 12 Cr banking app on time.\nReduced defects 30% via sprint reviews; managed US and UK client relationships.\nScrum Master, InnoTech (Jun 2017 \u2013 Feb 2020): Ran 3 scrum teams.\nSoftware Engineer, InnoTech (Jul 2015 \u2013 May 2017).\"]",
+    "certifications": [
+        "PMP",
+        "PSM I"
+    ]
+}

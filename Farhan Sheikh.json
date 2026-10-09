@@ -1,0 +1,30 @@
+{
+    "name": "Farhan Sheikh",
+    "jobTitle": "Civil Engineer",
+    "phone": "+91 98XXXXXX10",
+    "email": "farhan.sheikh@email.com",
+    "location": "Ahmedabad, Gujarat",
+    "skills": [
+        "AutoCAD",
+        "STAAD.Pro",
+        "Revit",
+        "MS Project",
+        "quantity estimation",
+        "BBS",
+        "site supervision",
+        "IS codes"
+    ],
+    "education": {
+        "degree": "B.E. Civil",
+        "institution": "L.D. College of Engineering",
+        "graduationYear": 2020
+    },
+    "experience": {
+        "company": "Shreeji Constructions",
+        "title": "Site Engineer",
+        "duration": "Aug 2021 \u2013 Present",
+        "descriptions": "Executed a 14-storey tower (Rs 45 Cr) on schedule.",
+        "employees": "60+ workers and subcontractors",
+        "responibilities": "prepared RA bills and material reconciliation"
+    }
+}

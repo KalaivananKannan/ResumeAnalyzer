@@ -1,0 +1,11 @@
+{
+    "name": "Arjun Reddy",
+    "jobTitle": "Software Developer (IT)",
+    "phone": "+91 98XXXXXX02",
+    "email": "arjun.reddy@email.com",
+    "location": "Hyderabad, Telangana",
+    "skills": "Java, Spring Boot, React, REST APIs, MySQL, MongoDB, Docker, Git, JUnit, AWS (EC2, S3)",
+    "education": "B.Tech CSE, JNTU Hyderabad, 2023, CGPA 8.4",
+    "experience": "Software Engineer, Nexa Systems, Hyderabad (Jul 2023 \u2013 Present): Built microservices handling 2M+ requests/day. Intern, CodeCraft Labs (Jan \u2013 Jun 2023): Developed an inventory dashboard used by 15 store managers.",
+    "certifications": "AWS Cloud Practitioner"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Ananya Iyer",
+    "jobTitle": "Data Scientist",
+    "phone": "+91 98XXXXXX03",
+    "email": "ananya.iyer@email.com",
+    "location": "Bengaluru, Karnataka",
+    "skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow",
+        "XGBoost",
+        "Power BI",
+        "Spark",
+        "MLflow",
+        "statistics"
+    ],
+    "education": [
+        "M.Sc. Statistics, IISc Bengaluru",
+        "B.Sc. Mathematics",
+        "Google Data Analytics",
+        "DeepLearning.AI ML Specialization"
+    ],
+    "experience": [
+        "Data Scientist, ShopKart Analytics",
+        "Data Analyst Intern, FinEdge"
+    ]
+}

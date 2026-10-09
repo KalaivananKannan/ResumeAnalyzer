@@ -1,0 +1,23 @@
+{
+    "name": "Amit Choudhary",
+    "phone": "+91 98XXXXXX17",
+    "email": "amit.choudhary@email.com",
+    "location": "Kolkata, West Bengal",
+    "skills": [
+        "Inventory control",
+        "demand planning",
+        "SAP MM/SD",
+        "vendor negotiation",
+        "warehouse management",
+        "Excel",
+        "KPI reporting"
+    ],
+    "education": [
+        "PGDM (Operations)",
+        "B.Com"
+    ],
+    "experience": [
+        "Operations Executive",
+        "Logistics Coordinator"
+    ]
+}

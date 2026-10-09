@@ -1,0 +1,26 @@
+{
+    "name": "Karthik Subramanian",
+    "jobTitle": "Fresher - B.Tech Graduate",
+    "phone": "+91 98XXXXXX08",
+    "email": "karthik.s@email.com",
+    "location": "Chennai, Tamil Nadu",
+    "skills": [
+        "Python",
+        "Java",
+        "C",
+        "SQL",
+        "HTML/CSS",
+        "JavaScript",
+        "Git",
+        "data structures and algorithms"
+    ],
+    "education": [
+        "B.Tech, Information Technology, Anna University, Chennai, 2026, CGPA 8.1",
+        "HSC (Tamil Nadu Board), 2022: 92%"
+    ],
+    "experience": [
+        "Smart Attendance System: Face-recognition app (Python, OpenCV) used in 2 college departments.",
+        "Online Bookstore: Full-stack app with Java Servlets and MySQL.",
+        "Web Development Intern, TechSpark Solutions, Chennai (Jun \u2013 Jul 2025)."
+    ]
+}

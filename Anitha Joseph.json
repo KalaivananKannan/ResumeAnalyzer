@@ -1,0 +1,25 @@
+{
+    "name": "Anitha Joseph",
+    "jobTitle": "Staff Nurse (Healthcare)",
+    "phone": "+91 98XXXXXX12",
+    "email": "anitha.joseph@email.com",
+    "location": "Thiruvananthapuram, Kerala",
+    "skills": [
+        "ICU care",
+        "ventilator management",
+        "IV therapy",
+        "patient documentation",
+        "infection control",
+        "BLS/ACLS",
+        "NABH standards"
+    ],
+    "education": [
+        "B.Sc. Nursing",
+        "Government College of Nursing",
+        "2020"
+    ],
+    "experience": [
+        "Staff Nurse (ICU), KIMS Health, Thiruvananthapuram (Jan 2022 \u2013 Present)",
+        "Staff Nurse, City Care Hospital (Aug 2020 \u2013 Dec 2021)"
+    ]
+}
