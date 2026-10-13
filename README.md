@@ -25,10 +25,10 @@ This project extracts information from resumes (PDF, DOCX, JPG/PNG, or plain tex
 
 ## 📂 Project Structure
 JobFit-Resume-Analyzer/
-│── resume_api.py        # Main Flask app
-│── resumes_dataset.csv  # Sample dataset for matching
-│── uploads/             # Uploaded resumes (auto-created)
-│── README.md            # Project documentation
+├── resume_api.py        # Main Flask app
+├── resumes_dataset.csv  # Sample dataset for matching
+├── uploads/             # Uploaded resumes (auto-created)
+└── README.md            # Project documentation
 
 
 ---
